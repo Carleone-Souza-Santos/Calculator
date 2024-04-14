@@ -6,6 +6,9 @@ Operações Básicas: Adição (+), Subtração (-), Multiplicação (*), e Divi
 Funcionalidade de Ponto Decimal: Permite adicionar números decimais para cálculos precisos.
 Cálculo em Tempo Real: O resultado da expressão matemática é exibido instantaneamente após pressionar o botão =</p>
 
+<img src="assets/Projet.png" alt="Calculation" />
+
+
 <h2>Tecnologias Utilizadas</h2>
 <p>HTML</p>
 <p>CSS</p>
