@@ -13,6 +13,11 @@
     justify-content: center;
 
 }
+.container p{
+    display: flex;
+    justify-content: center;
+    font-size: 8px;
+}
 .calculator {
     background:rgb(213, 213, 213);
     padding: 10px;
